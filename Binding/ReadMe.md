@@ -16,6 +16,11 @@ gradle에 한줄만 추가하면 사용할 수 있다.
 다음 화면에서 이름 + "님 안녕하세요" 라는 글씨가 떠있는 화면을 보여준다.<br><br>
 > EditText의 값을 가져오고, 버튼의 클릭 이벤트를 제어하고, 화면이동, 텍스트뷰의 값을 지정한다.
 
+4. 최소사항
++ Android 2.1 (API 7) 이상
++ Android Plugin for Gradle 1.5.0-alpha1 이상
++ Android Studio 1.3 이상
+
 ## Gradle 설정
 ``` javascript
   android{
