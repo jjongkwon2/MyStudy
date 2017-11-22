@@ -21,6 +21,12 @@ gradle에 한줄만 추가하면 사용할 수 있다.
 + Android Plugin for Gradle 1.5.0-alpha1 이상
 + Android Studio 1.3 이상
 
+5. Thinks
+> 코드를 생각보다 많이 줄여준다. <br>
+> 비 숙련자가 보기엔 이해하기 어려울 수 있다. <br>
+> 잘 사용하면 개발시간을 굉장히 줄일 수 있을 것 같다. <br>
+> 좀 더 세부적인 공부가 필요하다. <br>
+
 ## Gradle 설정
 ``` javascript
   android{
