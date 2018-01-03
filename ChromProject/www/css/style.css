@@ -1,0 +1,37 @@
+#content{
+
+}
+
+/* 메뉴 */
+#div_navi{
+  position: fixed;
+  right: 0;
+  height: : 100%;
+}
+
+/* 캡쳐한 부분 */
+#div_captrue{
+  position: absolute;
+  /*width: 100%;
+  height: 100%;*/
+}
+
+#menu_button{
+  position:absolute;
+  right: 100%;
+  top:50%;
+  border-radius: 25px 0px 0px 25px;
+  background-color: #777799;
+}
+
+/* 스크린샷 이미지 */
+#target{
+  /*width:90%;
+  height: 100%;*/
+}
+
+.imagebutton{
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}

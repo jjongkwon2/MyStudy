@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "ScreenShot",
+  "description": "스크린샷 기능 제공 확장프로그램",
+  "version": "1.0",
+  "background": {
+      "scripts": ["www/js/backgroundEvent.js"],
+      "persistent": false
+    },
+  "browser_action": {
+    "default_icon": "res/images/app_icon.png"
+  },
+  "permissions": [
+        "activeTab",
+        "<all_urls>"
+    ]
+}
